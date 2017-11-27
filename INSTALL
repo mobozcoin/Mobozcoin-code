@@ -1,0 +1,9 @@
+Building MobozCoin
+
+See doc/readme-qt.rst for instructions on building MobozCoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of MobozCoin.
+
+See doc/build-*.txt for instructions on building MobozCoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of MobozCoin.
